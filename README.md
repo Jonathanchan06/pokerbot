@@ -1,6 +1,6 @@
 Thought process
 
-27/8/2025 : still working on classification, undersampling seems unneccessary considering lack of data, attempting to oversample using imblearn
+27/8/2025 : Using random forest --> still working on classification, undersampling seems unneccessary considering lack of data, attempting to oversample using imblearn
 
 28/8/2025 : Attempted undersampling and oversampling. Going to stop this project, simply not enough data for the rarer hands for undersampling and 
 oversampling to be useful. f1 score did improve slightly from before (improving all hands) 
