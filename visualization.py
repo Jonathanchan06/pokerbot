@@ -1,5 +1,4 @@
-import main
-from main import y_train,X_train, y_test
+from classification_rf import y_train,X_train, y_test
 import matplotlib.pyplot as plt
 import seaborn as sns
 
