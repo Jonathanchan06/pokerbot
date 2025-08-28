@@ -22,3 +22,5 @@ classification report:
     accuracy                         0.6164   1000000
    macro avg     0.3184    0.1825    0.1595   1000000
 weighted avg     0.5962    0.6164    0.5907   1000000
+
+28/8/2025: https://www.youtube.com/watch?v=BJXt-WdeJJo Diving into xgboost to see if classification improves. 
